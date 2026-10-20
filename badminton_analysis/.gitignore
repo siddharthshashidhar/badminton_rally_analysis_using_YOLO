@@ -1,0 +1,8 @@
+venv/
+raw_videos/
+clips/
+keypoints/
+*.pt
+*.mp4
+__pycache__/
+.ipynb_checkpoints/
